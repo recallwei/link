@@ -4,6 +4,7 @@
 
 - [TypeScript Official Handbook](https://www.typescriptlang.org/docs/handbook/)
 - [TypeScript Official Changelog](https://devblogs.microsoft.com/typescript/)
+- [TypeScript Cheatsheets Utilities](https://github.com/typescript-cheatsheets/utilities)
 
 ## React
 
